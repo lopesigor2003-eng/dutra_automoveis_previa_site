@@ -1,0 +1,8 @@
+{
+  "name": "Dutra Automóveis - Concessionária Multimarcas",
+  "description": "Landing page institucional de alta credibilidade para a Dutra Automóveis em Santa Maria-RS. Venda, compra, consultoria e financiamento facilitado de veículos multimarcas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
